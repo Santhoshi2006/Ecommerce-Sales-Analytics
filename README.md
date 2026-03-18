@@ -26,5 +26,3 @@ Analyze e-commerce sales data to identify trends, top products, and customer beh
 - Improve low sales months
 - Retain loyal customers
 
-## 📷 Dashboard Preview
-(Add your screenshot here)
